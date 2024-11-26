@@ -1,3 +1,5 @@
+# Completed 11/26/2024
+
 # Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
 
 Complete the tasks in the Python Notebook in this repository.
@@ -14,7 +16,7 @@ This exercise is used to practice web scraping (fetching and extracting informat
 3. Execute your code before exporting HTML and pushing notebooks. (See FAQ for help.)  
 4. Unexecuted code is not eligible for credit.
 
-## Packages Required
+# Packages Required
 
 * beautifulsoup4  # parsing webpages (HTML documents)
 * html5lib        # parsing webpages (HTML documents)  - especially if poorly formatted
@@ -25,7 +27,7 @@ This exercise is used to practice web scraping (fetching and extracting informat
 * spacy           # for NLP 
 * spacytextblob   # for NLP - combines spaCy and TextBlob (simpler interface)
 
-## Rubric
+### Rubric
 
 * (Question 1) Article html stored in separate file that is committed and pushed: 1 pt
 * (Question 2) Article text is correct: 1 pt
