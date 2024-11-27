@@ -27,7 +27,7 @@ This exercise is used to practice web scraping (fetching and extracting informat
 * spacy           # for NLP 
 * spacytextblob   # for NLP - combines spaCy and TextBlob (simpler interface)
 
-### Rubric
+# Rubric
 
 * (Question 1) Article html stored in separate file that is committed and pushed: 1 pt
 * (Question 2) Article text is correct: 1 pt
